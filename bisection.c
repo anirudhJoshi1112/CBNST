@@ -26,4 +26,4 @@ int main(){
     }
     while(fabs(f2)>e)
     getch();
-}
+}//ye kya majak hai
